@@ -1,0 +1,15 @@
+# Source files
+src/
+
+# Config files
+tsconfig.json
+biome.json
+
+# Folders
+.github/
+.readme/
+.vscode/
+
+# Git
+.git/
+.gitignore
