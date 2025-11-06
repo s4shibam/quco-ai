@@ -87,11 +87,11 @@ quco "download youtube video https://youtu.be/AbCd"
 
 | Command | Description |
 |---------|-------------|
-| `--setup` | Interactive setup and configuration. Stores credentials in your shell rc file (.zshrc or .bashrc). |
-| `<prompt>` | Generate a shell command from natural language. The command is printed to stdout and copied to clipboard using pbcopy. |
+| `--setup` | Interactive setup and configuration.<br/>Stores credentials in your shell rc file (.zshrc or .bashrc). |
+| `<prompt>` | Generate a shell command from natural language.<br/>The command is printed to stdout and copied to clipboard using pbcopy. |
 | `--version` | Display version information. |
 | `--config` | Show current configuration (model, provider, settings). |
-| `--autofill-on` | Enable autofill for zsh or bash. This loads generated commands directly into your shell's edit buffer for review before execution. |
+| `--autofill-on` | Enable autofill for zsh or bash.<br/>This loads generated commands into your shell's edit buffer for review. |
 | `--autofill-off` | Disable autofill and remove the shell function from your configuration. |
 
 ## 📚 Notes
