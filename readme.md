@@ -106,7 +106,7 @@ Quco automatically creates backups of your shell configuration file (`~/.zshrc` 
 
 ## 📺 Demo
 
-<video src=".readme/demo.mp4" width="100%" style="border-radius: 30px;" controls loop muted poster=".readme/main.webp"></video>
+<video src="https://github.com/user-attachments/assets/1d3da9e4-44d8-41d3-92da-373f2996bd69" controls muted poster=".readme/main.webp"></video>
 
 ## 👋🏻 Contact
 
